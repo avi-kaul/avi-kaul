@@ -10,6 +10,6 @@ Most of my code is private: HumDocs is a paid product and Even Up is a live App 
 **Even Up** · an iPhone app that keeps track of shared expenses between two people, with receipt scanning.
 [evenup.avikaul.com](https://evenup.avikaul.com) · [Case study](https://avikaul.com/evenup)
 
-**How I build.** With AI coding tools, mainly Claude Code. I plan each feature, read every change, write and run the tests, and decide what ships. The language I write well on my own is Java.
+**How I build.** I plan each feature, work alongside tools like Claude Code, review every change, and test on real devices before anything ships. My strongest language is Java.
 
 Portfolio and resume: [avikaul.com](https://avikaul.com)
